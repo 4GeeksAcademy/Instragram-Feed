@@ -1,0 +1,117 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+}
+#header {
+    background-color: rgb(29, 43, 235);
+    height: 70px;
+    width: 100%;
+    margin-top: 0;
+    text-align: center;
+
+}
+section {
+    width: 1000px;
+    height: 800px;
+    background-color: rgb(227, 227, 255);
+    position: relative;
+    margin-left: 350px;
+    margin-top: 60px;
+    border-radius: 40px;
+}
+article {
+    width: 750px;
+    height: 650px;
+    background-color: rgb(208, 208, 255);
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 120px;
+    border-radius: 40px;
+    
+}
+h1 {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: large;
+}
+h2 {
+    margin: 0;
+}
+.post-header div:last-child{
+    display: inline;
+    float: right;
+    padding: 10px;
+}
+.Name {
+    float: left;
+    padding: 10px;
+    font-family: "Delius", serif;
+}
+.firstPhoto {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 600px;
+    height: auto;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 75px;
+    border-radius: 8px;
+    
+}
+img {
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.description {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.likes {
+   padding-left: 10px;
+   padding-right: 10px; 
+}
+.secondPhoto {
+    border: 20px black;
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 75px;
+    border-radius: 8px;
+}
+.thirdPhoto {
+    border: 2px black;
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 75px;
+    border-radius: 8px;
+}
+.fourPhoto {
+    border: 2px black;
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 75px;
+    border-radius: 8px;
+}
+.fivePhoto {
+    border: 2px black;
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 75px;
+    border-radius: 8px;
+}
